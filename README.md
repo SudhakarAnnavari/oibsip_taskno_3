@@ -3,4 +3,9 @@ I have completed tasks given for my internship as a Web Developer in CodSoft. I 
 
 (Level 1)
 
-Task 3:- CALCULATOR To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an interactive interface with buttons for addition, subtraction, multiplication, and division operations. The calculator should have a display screen to show user input and results. Utilize CSS grid system for button alignments. Use event listeners, if-else statements, operators, and loops to handle user input and perform calculations. This project requires some skill but can be done with basic knowledge of these technologies..
+Task 3:- The provided code is for a simple web-based temperature converter. It includes an HTML file with a form that allows users to input a temperature value and choose whether it's in Celsius or Fahrenheit. The JavaScript code handles the conversion based on user input and displays the converted temperature on the webpage. The converter dynamically updates the result based on whether the user wants to convert from Celsius to Fahrenheit or vice versa. The application utilizes Bootstrap for styling and some JavaScript functions for temperature conversion.
+
+
+
+
+
